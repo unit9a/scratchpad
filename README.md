@@ -1,0 +1,2 @@
+# scratchpad
+diagrams and notes
